@@ -79,7 +79,7 @@ Technologies: HTML, CSS, Bootstrap, JavaScript
 🤝 Connect With Me
 
 - GitHub: https://github.com/Tukaramwadkar
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/tukaram-wadkar-245121258
 
 ---
 
