@@ -82,7 +82,7 @@ Technologies: HTML, CSS, Bootstrap, JavaScript
 - LinkedIn: https://www.linkedin.com/in/tukaram-wadkar-245121258
 
 ---
---------------------------------------------------------------------My Portfol------------------------------------------------------------------------
+--------------------------------------------------------------------My Portfolio------------------------------------------------------------------------
 https://relaxed-jelly-8ca713.netlify.app/
 
 ⭐ Thank you for visiting my profile!
